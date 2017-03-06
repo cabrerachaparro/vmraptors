@@ -1,0 +1,254 @@
+<!-- Nosotros Section -->
+    <section id="nosotros">
+        <div class="container">
+            <div class="row">
+                  
+                <div class="col-lg-12 text-center">
+                   
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h5>¿Quiénes somos?</h5>
+                    <p style="text-align: justify">
+                        VM RAPTORS es una empresa que brinda servicios de control, disuasión y eliminación de aves en almacenes, plantas procesadoras, fábricas, aeropuertos, campos de cultivo, espacios públicos, clubes, etc. A través de técnicas de captura selectiva, supresión de nidos y por medio de halcones, los que mediante técnicas de cetrería disminuyen y eliminan las aves que causan: problemas en los procesos de producción, peligro en la seguridad aérea, riesgo para la salud, polución y contaminación en espacios públicos y privados y pérdidas en los cultivos. Ofrecemos una manera eco-amigable, progresiva y exitosa de controlar las plagas de palomas, gaviotas, gorriones y otras aves a través de la dinámica natural predador –presa. 
+                    </p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h5>Nuestros Halcones</h5>
+                    <p style="text-align: justify">
+                        Nuestras rapaces provienen de criadero El Huayco, el más grande centro de reproducción de rapaces de Sudamérica y uno de los más prestigiosos del mundo. Todos ellos llevan un anillo identificatorio y un transmisor de telemetría, que nos permite monitorear la ubicación y actividad de nuestras aves. 
+                    </p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h5>Nuestro Staff</h5>
+                    <p style="text-align: justify">
+                        Contamos con personal pionero en la actividad de control aviar en el Perú, lo que nos permite seguir protocolos de trabajo probados con efectividad en el tiempo, procedimientos en los que prima la disuasión de las aves invasoras, haciendo que estas no retornen a los lugares afectados.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+<section id="servicios" class="bg-light-gray">
+    <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Nuestros Servicios</h2>
+                </div>
+            </div>
+    </div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6">
+            <img src="images/arandanos.jpg" class="img-rounded">
+               <div class="caption">
+                    <p>Arándanos dañados por picaduras de aves</p>
+               </div>
+        </div>
+     
+         <div class="col-sm-6">
+            <img src="images/arandanos1.jpg" class="img-rounded" style="margin-left: 70px">
+            <div class="caption">
+                    <p style="margin-left: 70px">Arándanos con sistema de control aviar</p>
+               </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-6">
+            <img src="images/uva1.jpg" class="img-rounded">
+               <div class="caption">
+                    <p>Uvas dañadas por picaduras de aves</p>
+               </div>
+        </div>
+     
+         <div class="col-sm-6">
+            <img src="images/uva.jpg" class="img-rounded" style="margin-left: 70px">
+            <div class="caption">
+                    <p style="margin-left: 70px">Uva con sistema de control aviar</p>
+               </div>
+        </div>
+    </div>
+
+     <div class="row">
+        <div class="col-sm-6">
+            <img src="images/setter1.jpeg" class="img-rounded" width="900">
+               <div class="caption">
+                    <p style="margin-bottom: 0px">VM Raptors también utiliza perros de caza.</p>
+                    <p>En la foto setter ingles asiste al halcón.</p>
+               </div>
+        </div>
+     </div>
+     <div class="row">
+         <div class="col-sm-6">
+            <img src="images/perepaloma.jpeg" class="img-rounded" width="900">
+            <div class="caption">
+                    <p>Halcón Peregrino con paloma cuculí</p>
+               </div>
+        </div>
+    </div>
+
+</div>
+<br>
+<div class="container">
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  
+    <div class="carousel-inner" role="listbox">
+        <div class="item active">
+            <img src="images/slide/palomascontaminando.jpeg">
+            <div class="carousel-caption">
+               <p class="lead">Palomas contaminando y consumiendo el maíz.</p>
+            </div>
+        </div>
+        <div class="item">
+            <img src="images/slide/palomascontaminando1.jpeg">
+            <div class="carousel-caption">
+               <p class="lead">Las pérdidas de granos por las palomas pueden ser cuantiosas.</p>
+            </div>
+        </div>
+        <div class="item">
+            <img src="images/slide/mallas.jpeg">
+            <div class="carousel-caption">
+               <p class="lead">Mallas bloqueadoras resguardan los granos.</p>
+               <p>Estas capturas se realizan con el permiso estatal correspondiente.</p>
+            </div>
+        </div>
+        <div class="item">
+            <img src="images/slide/canelo.jpg">
+            <div class="carousel-caption">
+               <p class="lead">Gavilán Acanelado vigilando almacén.</p>
+               
+            </div>
+        </div>
+        
+     
+        <div class="item">
+            <img src="images/slide/Halcon_perdiguero_vigilando_el_cultivo.jpg">
+            <div class="carousel-caption">
+               <p class="lead">Halcón Perdiguero vigilando el cultivo.</p>
+              
+            </div>
+        </div>
+        
+        <div class="item">
+            <img src="images/slide/nidos.jpeg">
+            <div class="carousel-caption">
+               <p class="lead">Extracción de nidos de palomas.</p>
+              
+            </div>
+        </div>
+        <div class="item">
+            <img src="images/slide/perdiguero.jpeg">
+            <div class="carousel-caption">
+               <p class="lead">Halcón Perdiguero con captura de gorrión europeo.</p>
+              
+            </div>
+        </div>
+        <div class="item">
+            <img src="images/slide/IMG_1970.JPG">
+            <div class="carousel-caption">
+               <p class="lead">Halcón Peregrino con captura de paloma cuculí.</p>
+              
+            </div>
+        </div>
+
+        
+<!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+
+    </div>
+</div>
+</div>
+</section>
+<section id="cierre">
+    <div class="container">
+        <div class="row text-center">
+             
+                <h5>A Modo de Cierre</h5>
+                    <p style="text-align: justify">
+                        La cetrería es una técnica de caza con asistencia de una rapaz, la que sujeta a comportamientos condicionados hace a su entorno al hombre, quien levanta la presa o incita el vuelo de esta, generándose, con suerte, la captura por parte del halcón. Leído esto, parecería una operación complicada y ciertamente podría serlo, si no se tiene el tacto y la intuición hacia la rapaz. 
+                    </p>
+                    <p style="text-align: justify">
+                        Este es la idea prima que sujeta el trabajo de control aviar, el binomio halcón-presa, la dinámica de lo inesperado, un acto predatorio natural que en su desarrollo, disuade a las demás aves a evitar los lugares donde la rapaz concurre. Ahora bien, no creemos que esta sea la única técnica de control de aves, pero si la más eco amigable y eficiente. 
+                    </p>
+                    <p style="text-align: justify">
+                        Las rapaces cumplen un rol capital en la cadena animal como reguladores de la población de aves. El número de rapaces en la naturaleza encierra una conexión directa con la cantidad de presas disponibles. El desarrollo de las ciudades y su disponibilidad de comida, ha creado que en estos tiempos existan más palomas en las ciudades que en el campo por indicar un ejemplo. Un efecto antrópico en la población de aves, que sin predadores naturales vienen expandiendo su progenie y con ello, generando problemas a las actividades humanas.
+                    </p>
+                    <p style="text-align: justify">
+                        La urbe es una increíble dadora de alimento fácil para las poblaciones de aves, que sin predadores naturales o siendo estos pocos, empiezan a reproducirse y proliferarse hasta convertirse en plagas. La ciudad, disimula e incentiva el desarrollo de estas plagas, pues es claro que ejemplares que en situaciones normales no hubieran tenido éxito en la naturaleza, son albergados por la ciudad  y llegan a reproducirse.
+                    </p>
+                    <p style="text-align: justify">
+                        Este incremento poblacional de aves viene causando pérdidas económicas, conflicto con las actividades humadas y contaminación de espacios públicos y privados. El control aviar surge como respuesta a la demanda en eliminar y disuadir la plaga de aves que causan estos problemas.
+                    </p>
+        </div>
+    </div>    
+</section>
+<section id="album_videos">
+    <div class="container">
+        
+            <h2>ALBÚM DE FOTOS</h2>
+                <h4>Puede visitar nuestro álbum de fotos, VIDA RAPAZ en: <a target="_blank" title="find us on Facebook" href="https://www.facebook.com/pg/vidarapaz/photos/?tab=album&album_id=830369320390776">
+                <img alt="follow me on facebook" src="facebook_circle_color-256.png" border=0 width="40"></a></h4>
+            
+    </div>
+    <div class="container">
+        <h2>GALERÍA DE VÍDEOS</h2>
+       <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fvidarapaz%2Fvideos%2F871420892952285%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+        <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fvidarapaz%2Fvideos%2F1037209613040078%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Vhbht2hDtaU" frameborder="0" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/fSIVAi8mrq8" frameborder="0" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/lHYFgob7Trc" frameborder="0" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/r4D54xmCmt4" frameborder="0" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/-KJhN_5XCWg" frameborder="0" allowfullscreen></iframe>
+        <iframe src="https://player.vimeo.com/video/107009473" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        <p><a style="color: black" href="https://vimeo.com/107009473">HALCÓN PERDIGUERO EN LA CAZA DE GORRIONES</a>.</p>
+        <iframe src="https://player.vimeo.com/video/111407640" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        <p><a style="color: black" href="https://vimeo.com/111407640">HALCÓN PERDIGUERO EN PERSECUCIONES A PALOMAS MADRUGADORAS</a>.</p>
+        <iframe src="https://player.vimeo.com/video/102965708" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        <p><a style="color: black" href="https://vimeo.com/102965708">CACERÍA DE PATOS CON PEREGRINO CASSINI</a>.</p>
+        <iframe src="https://player.vimeo.com/video/131386579" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        <p><a style="color: black" href="https://vimeo.com/131386579">HALCÓN PERDIGUERO EN LA CAZA DE PALOMAS CUCULÍ</a>.</p>
+    </div>    
+</section>
+<section id="contacto">
+ 
+  <div class="paragraphs">
+  <div class="row">
+    <div class="span4"  style="margin-left: 10px">
+      <img style="float:left; margin-right: 20px" src="logo_raptors.png"/>
+      <div class="content-heading"><h3 style="margin-bottom: 0px; margin-left: 10px">Contactenos &nbsp </h3></div>
+      <p style="margin-left: 10px">Oficina Principal: <br>
+          Av. Benavides 5030 - Santiago de Surco - Lima <br>
+          Cel. 947-363-977 / 971-264-143 <br>
+          Fijo. (051) 639-5145 <br>
+          E-mails: <br>
+          <a heref="mailto:gmorote@vmraptors.com" style="color: black">gmorote@vmraptors.com</a> 
+          / <a heref="mailto:avinci@vmraptors.com" style="color: black">avinci@vmraptors.com</a>
+          / <a heref="mailto:info@vmraptors.com" style="color: black">info@vmraptors.com</a>
+
+      </p>
+    </div>
+  </div>
+</div>
+</section>
