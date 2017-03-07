@@ -95,7 +95,7 @@
   .sidebar-nav .navbar li a {
     padding-top: 12px;
     padding-bottom: 12px;
-    color: white;
+    
     font-size: 20px
   }
   
@@ -103,6 +103,7 @@
 
 
 .first {
+    
   /*height:80vh;
   min-height:400px; */
   height:500px;
@@ -113,3 +114,23 @@
 #menu{
       color: white;
   }
+
+  section{
+      padding:100px 0
+  }
+
+  #logo {
+     top: 0;
+     position: fixed;
+     background-color: #fff;
+     height: 40px;
+     width: 100%;
+
+  }
+
+  #intro {
+      top: 600px
+  }
+
+  
+
