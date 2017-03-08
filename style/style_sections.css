@@ -25,6 +25,7 @@ section{
   display: block;
   width: 100%;
   height: auto;
+ 
 }
 
 /* ------------------- Carousel Styling ------------------- */
@@ -88,4 +89,14 @@ section{
     max-width: 930px;
   }
 
+}
+
+.ptexto{
+  font-size: 18px;
+  text-align: justify
+}
+
+.imgslide{
+  width: 500;
+  height: 300
 }
